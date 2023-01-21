@@ -1,7 +1,7 @@
 <template>
   <div class="challenge">
     <h1>Bug Challenge 2</h1>
-    <component-1 />
+    <Component1 />
   </div>
 </template>
 
