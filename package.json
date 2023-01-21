@@ -4,7 +4,8 @@
   "private": true,
   "scripts": {
     "serve": "vue-cli-service serve",
-    "build": "vue-cli-service build"
+    "build": "vue-cli-service build",
+    "lint": "vue-cli-service lint"
   },
   "dependencies": {
     "vue": "^2.6.10",
@@ -14,7 +15,7 @@
   "devDependencies": {
     "@vue/cli-plugin-router": "^4.5.12",
     "@vue/cli-plugin-vuex": "^4.5.12",
-    "@vue/cli-service": "^4.5.12",
+    "@vue/cli-service": "^5.0.8",
     "vue-template-compiler": "^2.6.10"
   },
   "browserslist": [
