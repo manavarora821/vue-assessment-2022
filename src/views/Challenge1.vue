@@ -1,7 +1,8 @@
 <template>
   <div class="challenge">
     <h1>Bug Challenge 1</h1>
-    <p>{{ msg2 }}</p>
+    <p>{{msg}}</p>
+    <p>{{msg2}}</p>
   </div>
 </template>
 
@@ -11,7 +12,7 @@
     data: function() {
       return {
       msg: 'Congrats you have discovered the issue',
-      msg2: 'Don\t forget to commit this solutiom'
+      msg2: 'Don\'t forget to commit this solutiom'
       }
     }
   }

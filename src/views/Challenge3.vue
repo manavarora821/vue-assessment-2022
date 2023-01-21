@@ -1,7 +1,7 @@
 <template>
   <div class="challenge">
     <h1>Bug Challenge 3</h1>
-    <component-2 :Msg='msg' />
+    <Component2 :msg=msg />
   </div>
 </template>
 
